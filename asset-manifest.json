@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TicTacToe-Game/static/css/main.709f141b.css",
+    "main.js": "/TicTacToe-Game/static/js/main.047994e5.js",
+    "static/js/787.6b0bed1b.chunk.js": "/TicTacToe-Game/static/js/787.6b0bed1b.chunk.js",
+    "index.html": "/TicTacToe-Game/index.html",
+    "main.709f141b.css.map": "/TicTacToe-Game/static/css/main.709f141b.css.map",
+    "main.047994e5.js.map": "/TicTacToe-Game/static/js/main.047994e5.js.map",
+    "787.6b0bed1b.chunk.js.map": "/TicTacToe-Game/static/js/787.6b0bed1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.709f141b.css",
+    "static/js/main.047994e5.js"
+  ]
+}
